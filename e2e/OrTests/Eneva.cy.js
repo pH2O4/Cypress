@@ -6,7 +6,7 @@ describe('Fluxo de Assinatura Assai', () => {
         function AdmOrSinger(emailLogin, passwordLogin) {
             return {
                 email: emailLogin,
-                password: passwordLogin,
+   
             };
         }
         function Colaborador(name, emailLogin, passwordLogin) {
